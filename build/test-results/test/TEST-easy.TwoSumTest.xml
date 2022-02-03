@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="easy.TwoSumTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-02-03T03:41:24" hostname="DESKTOP-KLQ33LP" time="0.03">
+  <properties/>
+  <testcase name="twoSum_withComplexArray_returnsCorrectAnswer()" classname="easy.TwoSumTest" time="0.026"/>
+  <testcase name="twoSum_withSimpleArray_returnsCorrectAnswer()" classname="easy.TwoSumTest" time="0.001"/>
+  <testcase name="twoSum_withNoSolution_returnsNull()" classname="easy.TwoSumTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
